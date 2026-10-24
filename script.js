@@ -5,7 +5,7 @@
   var WHATSAPP_MSG = "Olá! Vim pelo site da Arfia e quero conversar sobre um projeto.";
   var EMAIL = "";               // ex.: "contato@arfia.com.br"
   var PROJECT_LINKS = {         // endereços publicados dos projetos demonstrativos
-    barbearia: "",
+    barbearia: "https://barbeariapontofino.netlify.app/",
     clinica: "",
     plataforma: ""
   };
