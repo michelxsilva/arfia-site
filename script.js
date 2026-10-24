@@ -1,9 +1,8 @@
-
 (function(){
   // ====== Configure aqui ======
   var WHATSAPP = "5585996438607";            // ex.: "5585999999999" (país + DDD + número, só dígitos)
   var WHATSAPP_MSG = "Olá! Vim pelo site da Arfia e quero conversar sobre um projeto.";
-  var EMAIL = "";               // ex.: "contato@arfia.com.br"
+  var EMAIL = "arfiadigitalstudio@gmail.com";               // ex.: "contato@arfia.com.br"
   var PROJECT_LINKS = {         // endereços publicados dos projetos demonstrativos
     barbearia: "https://barbeariapontofino.netlify.app/",
     clinica: "",
